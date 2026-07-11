@@ -17,7 +17,7 @@ const libros = [
     cat: "novela",
     price: 1800,
     condition: "Muy bueno",
-    cover: "IMAGES/portadas/portada1.jpg"
+    cover: "portada1.jpg"
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ const libros = [
     cat: "cuento",
     price: 1500,
     condition: "Muy bueno",
-    cover: "IMAGES/portadas/portada2.jpg"
+    cover: "portada2.jpg"
   },
   {
     id: 4,
@@ -44,7 +44,7 @@ const libros = [
     cat: "cuento",
     price: 1400,
     condition: "Regular",
-    cover: "IMAGES/portadas/portada3.jpg"
+    cover: "portada3.jpg"
   },
   {
     id: 5,
@@ -53,7 +53,7 @@ const libros = [
     cat: "poesía",
     price: 900,
     condition: "Muy bueno",
-    cover: "IMAGES/portadas/portada4.jpg"
+    cover: "portada4.jpg"
   },
   {
     id: 6,
@@ -107,7 +107,7 @@ const libros = [
     cat: "novela",
     price: 24000,
     condition: "Excelente",
-    cover: "IMAGES/portadas/portada5.jpg"
+    cover: "portada5.jpg"
   },
   {
     id: 12,
@@ -116,7 +116,7 @@ const libros = [
     cat: "novela",
     price: 25000,
     condition: "Excelente",
-    cover: "IMAGES/portadas/portada6.jpg"
+    cover: "portada6.jpg"
   }
 ];
 
